@@ -7,7 +7,7 @@
 - LL.B from FGV Law School (FGV / Direito-RIO) with minor in applied mathematics from School of Applied of Mathematics (FGV / EMap)
 
 
-## Some of the reports I have been involved in(portuguese):
+## Some of the reports I have been involved in (portuguese):
 
 <div id="user-content-toc">
 <ul style="list-style-type:none;">
