@@ -16,3 +16,5 @@
   <li><a href="https://www.transparencia.org.br/downloads/publicacoes/ProfessoreseTerritorios-Publicacao.pdf">📄 Diferenças salariais e as desigualdades na educação</a></li>
   </ul>
 </div>
+
+Feel free to check my personal page for more information: https://jncoe.github.io/
