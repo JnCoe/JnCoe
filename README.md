@@ -1,6 +1,7 @@
 # About me
 
 - Currently working at [Transparência Brasil](https://www.transparencia.org.br) as data scientist
+- 2022 fellow at [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/) - Carnegie Mellon University
 - Most used languages: R, Python and PostgreSQL
 - Interested in public transparency, budget, and education.
 - M.Sc. in Institutions, Policy & Government from the Brazilian School of Public and Business Administration (FGV / EBAPE)
