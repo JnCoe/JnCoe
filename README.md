@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/jonasbarros/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%2Fin%2Fjonasbarros-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jonasbarros/" alt="LinkedIn Badge"></a> 
+
 # About me
 
 - Currently working at [Transparência Brasil](https://www.transparencia.org.br) as data scientist
